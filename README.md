@@ -15,10 +15,6 @@ Clone or download, then open `index.html`. That is the whole setup.
 
 Open `admin.html`.
 
-| | |
-|---|---|
-| Username | `admin` |
-| Password | `quackquack123` |
 
 Edit any page through forms, watch the SEO analysis update as you type, then save. Running locally
 from a folder, saving rewrites the HTML files in place. Running from a web address, saving hands
