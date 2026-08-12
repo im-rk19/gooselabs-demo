@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /content.js
+Disallow: /render.js
+Disallow: /pages.js
+Disallow: /templates.js
+Disallow: /seo.js
+Disallow: /zip.js
+
+# Answer engines are a real referral source for B2B AI services.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://gooselabs.in/sitemap.xml

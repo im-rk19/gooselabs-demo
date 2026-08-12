@@ -1,0 +1,5 @@
+# nothing here is built, so almost nothing is ignored
+.DS_Store
+Thumbs.db
+*.log
+.leads.jsonl

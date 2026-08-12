@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" width="220" height="44" role="img" aria-label="Gooselabs">
+  <rect width="36" height="36" y="4" rx="10" fill="url(#lg)"/>
+  <path d="M25.5 15.5a7.4 7.4 0 1 0 1.2 7h-7.2" stroke="#fff" stroke-width="2.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="48" y="30" font-family="Inter, Segoe UI, system-ui, sans-serif" font-size="21" font-weight="800" fill="#172033" letter-spacing="-0.6">Gooselabs</text>
+  <defs><linearGradient id="lg" x1="0" y1="0" x2="36" y2="40"><stop stop-color="#12bfa5"/><stop offset="1" stop-color="#c79738"/></linearGradient></defs>
+</svg>

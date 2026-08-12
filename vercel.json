@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/insights/stop-doing-these-tasks-manually",
+      "destination": "/insights/business-automation-stop-manual-tasks",
+      "permanent": true
+    },
+    {
+      "source": "/insights/business-systems-not-more-people",
+      "destination": "/insights/better-systems-not-more-people",
+      "permanent": true
+    }
+  ]
+}
